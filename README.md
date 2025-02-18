@@ -5,8 +5,6 @@
 - 🤔 I’m looking for help with Google search engine, but that was back then—now it's all about using AI! Haha. 😄
 - 💬 Ask me about guitar, or coding
 
-<hr>
-
 ### 👨 Social
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brayenprayoga/?hl=en)
