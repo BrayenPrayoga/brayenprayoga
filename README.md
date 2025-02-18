@@ -2,10 +2,18 @@
 
 - 🔭 I’m currently working on my bed, PLEASE HIRE ME! 
 - 🌱 I’m currently learning Javascript & Go
-- 🤔 I’m looking for help with Google search engine, but that was back then—now it's all about using AI! Haha. 😄
-- 💬 Ask me about guitar, or coding
+- 💬 Ask me about coding
 
-<hr>
+<br>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brayenprayoga&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=brayenprayoga&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="200" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=brayenprayoga&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="270" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brayenprayoga&theme=redical&area=true" height="270" alt="activity-graph graph"  />
+</div>
 
 ### 👨 Social
 
@@ -47,20 +55,8 @@
   ![express](https://img.shields.io/badge/-000000?style=for-the-badge&logo=express&logoColor=white) -->
   
 </p>
-
-###
-
+  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brayenprayoga&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="200" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=brayenprayoga&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="200" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=brayenprayoga&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="270" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brayenprayoga&theme=redical&area=true" height="270" alt="activity-graph graph"  />
+  <br clear="both">
+  <img src="https://raw.githubusercontent.com/brayenprayoga/brayenprayoga/output/snake.svg" alt="Snake animation" />
 </div>
-
-<br clear="both">
-
-![Snake animation](https://raw.githubusercontent.com/brayenprayoga/brayenprayoga/output/snake.svg)
-
-<img src="https://raw.githubusercontent.com/BrayenPrayoga/brayenprayoga/output/snake.svg" alt="Snake animation" />
-
-
