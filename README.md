@@ -4,8 +4,6 @@
 - 🌱 I’m currently learning Javascript & Go
 - 💬 Ask me about coding
 
-<br>
-
 ###
 
 <div align="center">
