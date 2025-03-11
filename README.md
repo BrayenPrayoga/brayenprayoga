@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Brayen Prayoga
 
-- 🔭 I’m currently working on my bed, PLEASE HIRE ME! 
+- 🔭 I’m currently working on my bed! 
 - 🌱 I’m currently learning Javascript & Go
 - 💬 Ask me about coding
 
@@ -9,7 +9,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brayenprayoga&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="200" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=brayenprayoga&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="200" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=brayenprayoga&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="270" alt="streak graph"  />
+<!--   <img src="https://streak-stats.demolab.com?user=brayenprayoga&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="270" alt="streak graph"  /> -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=brayenprayoga&theme=redical&area=true" height="270" alt="activity-graph graph"  />
 </div>
 
